@@ -1,0 +1,15 @@
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.csproj.AssemblyReference.cache
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.AssemblyInfo.cs
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\bin\Debug\net7.0\Mod1Assignment.exe
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\bin\Debug\net7.0\Mod1Assignment.deps.json
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\bin\Debug\net7.0\Mod1Assignment.runtimeconfig.json
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\bin\Debug\net7.0\Mod1Assignment.dll
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\bin\Debug\net7.0\Mod1Assignment.pdb
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.dll
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\refint\Mod1Assignment.dll
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.pdb
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\Mod1Assignment.genruntimeconfig.cache
+C:\Users\Tyler\Documents\VSCode\Mod1Assignment\obj\Debug\net7.0\ref\Mod1Assignment.dll
